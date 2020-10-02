@@ -2,16 +2,19 @@
 A machine learning algorithm to detect the drowsiness of a driver
 
 Python Libraries Required:
+
 (Working Internet Required)
+
 [Recommended To Use Anaconda]
+    
+    OpenCV
+        openCV for computer vision
+    
     scipy (pip install scipy)
        To compute the Euclidean distance between facial landmarks points in the eye aspect ratio calculation
-    
-    OpenCv
-        openCv for computer vision
 
     numpy (pip install numpy)
-        numpy for basic processing and calcutions ...
+        numpy for basic processing and calcutions
 
     imutils (pip install imutils)
         to make working with OpenCV easier.
